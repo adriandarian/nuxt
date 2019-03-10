@@ -1,5 +1,7 @@
 # nuxt
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/adriandarian/nuxt.svg)](https://greenkeeper.io/)
+
 > Nuxt.js project
 
 ## Build Setup
